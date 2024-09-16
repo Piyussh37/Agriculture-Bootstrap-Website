@@ -1,3 +1,5 @@
+MINIMIZE YOUR BROWSER ZOOM UPTO 50% OF WEB BROWSER TO SEE PERFECT OUTPUT.
+
 # Agricultural Website
 
 This is a responsive agricultural website built using HTML, CSS, and Bootstrap. The website showcases various aspects of farming and agriculture, including services, testimonials, a blog, and more. It serves as an informational platform to highlight the importance of farming and sustainable practices.
