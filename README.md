@@ -30,28 +30,28 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
 4. Folder Structure
 
    agricultural-bootstrap-website/
-│
-├── index.html         # Homepage
-├── testimonials.html  # Testimonials page
-├── services.html      # Services page
-├── contact.html       # Contact page
-├── about.html         # About page
-├── blog.html          # Blog page
-├── css/               # Folder for CSS file
-│   └── project.css
-└── images/            # images
+   │
+   ├── index.html         # Homepage
+   ├── testimonials.html  # Testimonials page
+   ├── services.html      # Services page
+   ├── contact.html       # Contact page
+   ├── about.html         # About page
+   ├── blog.html          # Blog page
+   ├── css/               # Folder for CSS file
+   │   └── project.css
+   └── images/            # images
 
-Customization
-* To change the content, edit the HTML files located in the root directory.
-* Update the styles in the css/styles.css file to modify the appearance of the website.
-* Replace images in the images folder with your own to customize the visuals.
+5. Customization
+   * To change the content, edit the HTML files located in the root directory.
+   * Update the styles in the css/styles.css file to modify the appearance of the website.
+   * Replace images in the images folder with your own to customize the visuals.
 
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+6. Contributing
+   Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-License
-This project is open-source and available under the MIT License.
+7. License
+   This project is open-source and available under the MIT License.
 
-Contact
-For any questions or suggestions, feel free to reach out via the contact page on the website or open an issue on this repository.
-OR   mail me at :- patilpiyush3788@gmail.com
+8. Contact
+   For any questions or suggestions, feel free to reach out via the contact page on the website or open an issue on this repository.
+   OR   mail me at :- patilpiyush3788@gmail.com
