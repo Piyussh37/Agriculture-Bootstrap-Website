@@ -1,4 +1,4 @@
-MINIMIZE YOUR BROWSER ZOOM UPTO 50% OF WEB BROWSER TO SEE PERFECT OUTPUT.
+MINIMIZE YOUR BROWSER WIDTH ZOOM UPTO 50% OF WEB BROWSER TO SEE PERFECT OUTPUT.
 
 # Agricultural Website
 
@@ -32,16 +32,16 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
 4. Folder Structure
 
    agricultural-bootstrap-website/
-   │
-   ├── index.html         # Homepage
-   ├── testimonials.html  # Testimonials page
-   ├── services.html      # Services page
-   ├── contact.html       # Contact page
-   ├── about.html         # About page
-   ├── blog.html          # Blog page
-   ├── css/               # Folder for CSS file
-   │   └── project.css
-   └── images/            # images
+   
+   * index.html         # Homepage
+   * testimonials.html  # Testimonials page
+   * services.html      # Services page
+   * contact.html       # Contact page
+   * about.html         # About page
+   * blog.html          # Blog page
+   * css/               # Folder for CSS file
+       └── project.css
+   * images/            # images
 
 5. Customization
    * To change the content, edit the HTML files located in the root directory.
