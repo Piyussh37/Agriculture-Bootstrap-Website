@@ -27,8 +27,10 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
 2. **Navigate to the project directory:**
    
     cd agricultural-bootstrap-website
+
    
 4. Open index.html in your browser to view the homepage.
+
 
 5. **Folder Structure**
 
@@ -44,17 +46,26 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
        └── project.css
    * images/            # images
 
+
 6. **Customization**
    * To change the content, edit the HTML files located in the root directory.
    * Update the styles in the css/styles.css file to modify the appearance of the website.
    * Replace images in the images folder with your own to customize the visuals.
 
+
 7. **Contributing**
+
+   
    Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-8. License
+9. **License**
+
+    
    This project is open-source and available under the MIT License.
 
-9. Contact
+
+11. **Contact**
+
+    
    For any questions or suggestions, feel free to reach out via the contact page on the website or open an issue on this repository.
    OR   mail me at :- patilpiyush3788@gmail.com
