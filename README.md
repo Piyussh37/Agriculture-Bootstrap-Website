@@ -19,17 +19,17 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
 - **CSS**: Styling of the website to ensure it is visually appealing and responsive.
 - **Bootstrap**: A framework for creating a responsive and mobile-first website.
 
-## where to see
+## Where to see
 
 1. Clone the repository to your local machine using:
    ```bash
    https://piyussh37.github.io/Agriculture-Bootstrap-Website/
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
     cd agricultural-bootstrap-website
    
 3. Open index.html in your browser to view the homepage.
 
-4. Folder Structure
+4. **Folder Structure**
 
    agricultural-bootstrap-website/
    
@@ -43,12 +43,12 @@ This is a responsive agricultural website built using HTML, CSS, and Bootstrap. 
        └── project.css
    * images/            # images
 
-5. Customization
+5. **Customization**
    * To change the content, edit the HTML files located in the root directory.
    * Update the styles in the css/styles.css file to modify the appearance of the website.
    * Replace images in the images folder with your own to customize the visuals.
 
-6. Contributing
+6. **Contributing**
    Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 7. License
